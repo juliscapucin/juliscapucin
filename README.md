@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my GitHub profile.
 
@@ -6,9 +6,9 @@ I'm Juli Scapucin, Amsterdam based Front-End Developer & Designer working at <a 
 
 ## Contact
 
-🖥 <a href="https://www.juliscapucin.com">juliscapucin.com</a></br>
-🖇 <a href="https://www.linkedin.com/in/juliscapucin/">LinkedIn</a></br>
-📸 <a href="https://www.instagram.com/juliscapucin/">Instagram</a>
+🖥 : <a href="https://www.juliscapucin.com">juliscapucin.com</a></br>
+🖇 : <a href="https://www.linkedin.com/in/juliscapucin/">LinkedIn</a></br>
+📸 : <a href="https://www.instagram.com/juliscapucin/">Instagram</a>
 
 
 

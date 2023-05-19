@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile.
+
+I'm Juli Scapucin, Amsterdam based Front-End Developer & Designer working at <a href="https://www.deptagency.com">Dept®</a>
+
+## Contact
+
+🖥 <a href="https://www.juliscapucin.com">juliscapucin.com</a></br>
+🖇 <a href="https://www.linkedin.com/in/juliscapucin/">LinkedIn</a></br>
+📸 <a href="https://www.instagram.com/juliscapucin/">Instagram</a>
+
+
+
 <!--
 **juliscapucin/juliscapucin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

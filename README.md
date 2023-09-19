@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I'm Juli Scapucin, Amsterdam based Front-End Developer & Designer working at <a href="https://www.deptagency.com">Dept®</a>
+I'm Juli Scapucin, Amsterdam based Front-End Developer & Designer</a>
 
 ## Contact
 

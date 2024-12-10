@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I'm Juli Scapucin, Amsterdam based Front-End Developer & Designer</a>
+I'm Juli Scapucin, Front-End Developer & Designer</a>
 
 ## Contact
 
